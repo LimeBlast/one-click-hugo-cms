@@ -1,6 +1,6 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
+title: Monumental Me
+subtitle: Achieve your goals and obtain inspiration with personalised displays hand crafted from wood for the home and office.
 image: img/bg.jpg
 blurb:
   heading: Monumental Me?
